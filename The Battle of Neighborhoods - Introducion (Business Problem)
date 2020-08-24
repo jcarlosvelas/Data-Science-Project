@@ -1,0 +1,14 @@
+Hello, colleagues from Coursera. This is the first part of the final capstone project. 
+In this part, I will define the business problem to solve, as an introduction for our report.
+
+Jonas is a student from Germany, who is looking to set up after a long time of traveling in USA.
+He has been searching in internet, and he has decided for Los Angeles, California. However, he has
+no idea of what neighborhood he must choose (which one will be the best for him). In order to solve this,
+he has come up to our "Foreign Students Agency" to give him a solution to this problem. He is a very
+active student, who needs to get plenty of social life in LA (he doesn't knows anyone there). So, for this,
+he will pay for our services in "FSA". He will pay to us to give him an answer: from all the possible
+neighborhoods, we must pick for him the one that will maximize his benefits (i.e., the one that has more
+places to visit, to create social life, etc.).
+
+He needs a report that compares the possible neighborhoods (we will only suggest him the best one, based in
+our algorithm; however, he will decide at the end, with the report that we will deliver to him).
