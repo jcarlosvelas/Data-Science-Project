@@ -1,0 +1,17 @@
+Hello, colleagues from Coursera. In this section, I will describe the data that we will be using
+to solve Jonas' problem. Basically, we will be using two sources of data:
+
+1. The first one, will give us the geospatial data needed to run our model (to plot in Folium, to
+pass it to Foursquare). This is, in its very own essence, three things: the name of the 
+neighborhood and its latitude and longitude. We will get this from the following website:
+
+https://usc.data.socrata.com/dataset/Los-Angeles-Neighborhood-Map/r8qd-yxsr
+
+There, we will download a csv file with the data of each neighborhood (name, latitude, longitude), that
+we will upload into our notebook. Of course, we can use a lot of formats GeoJSON, Shapefile, etc. However,
+for sake of simplicity, I will keep the basic and trusted csv format.
+
+
+2. The second one, will give us the information of all the venues in each neighborhood, that will allow
+us to select the neighborhood that maximize the benefits for Jonas. We will get this data from 
+Foursquare, via API calls.
